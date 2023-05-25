@@ -1,9 +1,9 @@
 {
-  "name": "ChainSafeWebPage",
+  "name": "UnifyGpt",
   "version": "0.1.0",
   "private": true,
   "main": "index.html",
-  "homepage": "https://chainsafe.github.io/ChainSafeWebPage",
+  "homepage": "https://chainsafe.github.io/UnifyGpt",
   "scripts": {
     "start": "parcel index.html --open",
     "build": "parcel build ./index.html --public-url /ChainSafeWebPage --target node --bundle-node-modules --out-dir ./dist --no-minify --out-file index.html"
